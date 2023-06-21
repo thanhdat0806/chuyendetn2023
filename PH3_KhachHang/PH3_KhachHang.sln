@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PH3_KhachHang", "PH3_KhachHang\PH3_KhachHang.csproj", "{AE53D17B-89EB-48F5-A2EA-46F384CD929D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MenuOrder", "MenuOrder\MenuOrder.vdproj", "{71B48C33-332D-4BDE-9D06-3C49CCEF65F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE53D17B-89EB-48F5-A2EA-46F384CD929D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE53D17B-89EB-48F5-A2EA-46F384CD929D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE53D17B-89EB-48F5-A2EA-46F384CD929D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE53D17B-89EB-48F5-A2EA-46F384CD929D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B48C33-332D-4BDE-9D06-3C49CCEF65F7}.Debug|Any CPU.ActiveCfg = Debug
+		{71B48C33-332D-4BDE-9D06-3C49CCEF65F7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A638273A-BAEF-4EE7-BDB6-BE356CD66668}
+	EndGlobalSection
+EndGlobal
